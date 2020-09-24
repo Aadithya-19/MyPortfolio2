@@ -1,0 +1,28 @@
+h1{
+    color:brown
+}
+
+.Header{
+    background-color: aquamarine;
+    display: flex;
+    justify-content: space-between;
+}
+
+.Grid{
+    background-color: chartreuse;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.Footer {
+    display : flex;
+    justify-content: flex-end;
+}
+
+p, h2{
+    text-align: center;
+}
+
+body {
+    background-color: darkgoldenrod;
+}
